@@ -1,6 +1,7 @@
 bradlc.vscode-tailwindcss
 cweijan.dbclient-jdbc
 cweijan.vscode-mysql-client2
+dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 mobalic.jetbrains-new-dark
 ms-python.debugpy
