@@ -1,2 +1,12 @@
 {
+    "editor.formatOnSave": true,
+    "editor.mouseWheelZoom": true,
+    "editor.autoIndentOnPaste": true,
+    "workbench.colorTheme": "JetBrains New Dark",
+    "workbench.preferredDarkColorTheme": "JetBrains New Dark",
+    "workbench.colorCustomizations": {
+        "[JetBrains New Dark]": {
+            "editor.background": "#000000"
+        }
+    }
 }

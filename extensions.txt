@@ -1,0 +1,9 @@
+bradlc.vscode-tailwindcss
+cweijan.dbclient-jdbc
+cweijan.vscode-mysql-client2
+esbenp.prettier-vscode
+mobalic.jetbrains-new-dark
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-python-envs
+ritwickdey.liveserver
