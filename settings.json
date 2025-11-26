@@ -27,5 +27,6 @@
     "editor.renderControlCharacters": false,
     "editor.stickyScroll.enabled": false,
     "editor.indentSize": "tabSize",
-    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark"
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "git.confirmSync": false
 }

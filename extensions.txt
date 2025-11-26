@@ -3,7 +3,9 @@ bradlc.vscode-tailwindcss
 cweijan.dbclient-jdbc
 cweijan.vscode-mysql-client2
 dbaeumer.vscode-eslint
+ecmel.vscode-html-css
 esbenp.prettier-vscode
+fermelone.simple-browser-multi
 mobalic.jetbrains-new-dark
 ms-python.debugpy
 ms-python.python
