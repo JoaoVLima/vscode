@@ -8,23 +8,15 @@
         "[JetBrains New Dark]": {
             "editor.background": "#1E1F22",
             "terminal.background": "#1E1F22",
+            "menu.selectionBackground": "#007ACC",
+            "button.background": "#007ACC",
             "menu.background": "#2b2d30",
-            "badge.background": "#2b2d30",
-            "banner.background": "#2b2d30",
-            "gauge.background": "#1E1F22",
-            "selection.background": "#1E1F22",
-            "menu.selectionBackground": "#25324D",
-            "input.background": "#1E1F22",
             "panel.background": "#2b2d30",
-            "button.background": "#2b2d30",
             "sideBar.background": "#2b2d30",
-            "checkbox.background": "#2b2d30",
-            "dropdown.background": "#2b2d30",
-            "welcomePage.background": "#2b2d30",
             "activityBar.background": "#2b2d30",
             "statusBar.background": "#2b2d30",
             "titleBar.activeBackground": "#2b2d30",
-            "titleBar.inactiveBackground": "#2b2d30",
+            "titleBar.inactiveBackground": "#2b2d30"
         },
     },
     "prettier.tabWidth": 4,
@@ -34,5 +26,6 @@
     "editor.renderWhitespace": "none",
     "editor.renderControlCharacters": false,
     "editor.stickyScroll.enabled": false,
-    "editor.indentSize": "tabSize"
+    "editor.indentSize": "tabSize",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark"
 }

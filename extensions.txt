@@ -1,3 +1,4 @@
+ardonplay.vscode-jetbrains-icon-theme
 bradlc.vscode-tailwindcss
 cweijan.dbclient-jdbc
 cweijan.vscode-mysql-client2
