@@ -29,5 +29,6 @@
     "editor.indentSize": "tabSize",
     "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
     "git.confirmSync": false,
-    "workbench.secondarySideBar.defaultVisibility": "hidden"
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "editor.fontFamily": "'Droid Sans Mono', 'Noto Sans Mono', 'CaskaydiaCove Nerd Font', 'monospace', monospace"
 }
