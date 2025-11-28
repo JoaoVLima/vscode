@@ -28,5 +28,7 @@
     "editor.stickyScroll.enabled": false,
     "editor.indentSize": "tabSize",
     "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "python.useEnvironmentsExtension": true
 }
